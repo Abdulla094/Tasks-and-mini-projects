@@ -1,0 +1,23 @@
+{
+    "Name":{
+        "1": "Abdullah",
+        "2": "Talha",
+        "3": "Savez"
+
+    },
+    "CollegeName":{
+        "1": "Saboo Siddik",
+        "2": "Saboo Siddik",
+        "3": "Maharashtra College"
+    },
+    "Course":{
+        "1": "IT Engeneering",
+        "2": "Comuper Engeneering",
+        "3": "Bsc IT"
+    },
+    "Fees":{
+        "1": "143000",
+        "2": "143000",
+        "3": "100000"
+    }
+}
